@@ -1,4 +1,4 @@
-# Atividade proposta pelo professor Felipe Aguiar, onde foi desenvolvido uma réplica do site Netflix.
+# Atividade proposta pelo professor Felipe Aguiar, onde foi desenvolvida uma réplica do site Netflix.
 
 As tecnologias utilizadas foram HTML5, CSS3 e Javascript.
 
